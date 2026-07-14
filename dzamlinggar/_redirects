@@ -1,0 +1,11 @@
+# Old dzamlinggar.org paths → their home in the rebuild.
+# The live site's venue page sits at a path with a typo baked into it
+# ("dzamnling"); it is linked from elsewhere on the web, so it must not 404.
+/rental-venue-at-dzamnling-gar    /en/services/venue/    301
+/rental-venue-at-dzamnling-gar/*  /en/services/venue/    301
+/services/espacio                 /en/services/espacio/  301
+/services                         /en/services/          301
+/projects                         /en/projects/          301
+/acoustic-project                 /en/projects/          301
+/casita-amarilla-2                /en/projects/          301
+/ongoing-maintenance-and-improvement-projects  /en/projects/  301

@@ -1,0 +1,3 @@
+# Pre-launch pitch build — not yet approved for indexing.
+User-agent: *
+Disallow: /
